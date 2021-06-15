@@ -1,0 +1,6 @@
+{
+    "URL" : "https://api.timkhap.com/vehicletrack/api/update",
+    "PHYSICAL_ADDRESS_CHOOSE_POSITION" : "0",
+    "INTERNET_CONNECT_TIME_OUT_MS" : "1000",
+    "READ_DATA_TIME_OUT_MS" : "180000"
+}

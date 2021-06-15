@@ -1,0 +1,7 @@
+{
+    "URL" : "https://api.timkhap.com/vehicletrack/api/update",
+    "DEVICE_CONNECT_RETRY_TIME" : "5",
+    "DEVICE_CONNECT_FAIL_TIME_OUT_MS" : "18000",
+    "PHYSICAL_ADDRESS_CHOOSE_POSITION" : "1",
+    "INTERNET_CONNECT_TIME_OUT_MS" : "3000"
+}

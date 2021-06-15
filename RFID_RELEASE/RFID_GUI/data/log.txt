@@ -1,0 +1,12 @@
+28-04-2021 14:08:25: rfid.MainProgram: INFO: Number of offline Bus = 0 
+28-04-2021 14:08:26: rfid.rfid_input.PortInputHandler: INFO: Port is open 
+28-04-2021 14:09:22: rfid.MainProgram: INFO: Number of offline Bus = 0 
+28-04-2021 14:09:23: rfid.rfid_input.PortInputHandler: SEVERE: Port is occupied, now exit 
+28-04-2021 14:09:23: rfid.MainProgram: INFO: Exit Program 
+28-04-2021 14:11:26: rfid.MainProgram: INFO: Number of offline Bus = 0 
+28-04-2021 14:11:26: rfid.rfid_input.PortInputHandler: INFO: Port is open 
+28-04-2021 14:33:44: rfid.MainProgram: INFO: Number of offline Bus = 0 
+28-04-2021 14:33:44: rfid.rfid_input.PortInputHandler: SEVERE: Port is occupied, now exit 
+28-04-2021 14:33:44: rfid.MainProgram: INFO: Exit Program 
+10-05-2021 17:59:36: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 18:02:12: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 

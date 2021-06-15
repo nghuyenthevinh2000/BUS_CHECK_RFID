@@ -1,0 +1,63 @@
+10-05-2021 11:45:31: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 11:45:31: rfid_gui.MainProgram: INFO: Exit Program 
+10-05-2021 17:39:26: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 17:39:26: rfid_gui.MainProgram: INFO: Exit Program 
+10-05-2021 17:44:09: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 17:44:09: rfid_gui.MainProgram: INFO: Exit Program 
+10-05-2021 17:50:07: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 17:53:00: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 17:53:18: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 17:55:35: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 17:55:41: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 17:56:40: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+10-05-2021 17:58:25: rfid_gui.rfid_input.PortInputHandler: INFO: Fail to connect device 
+11-06-2021 09:11:33: rfid.rfid_input.PortInputHandler: INFO: Fail to connect device 
+11-06-2021 09:11:33: rfid.MainProgram: INFO: Exit Program 
+11-06-2021 09:11:56: rfid.rfid_input.PortInputHandler: INFO: Fail to connect device 
+11-06-2021 09:11:56: rfid.MainProgram: INFO: Exit Program 
+11-06-2021 09:13:40: rfid.JSONHandler: SEVERE: Unexpected token COLON(:) at position 14.
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:146)
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:92)
+	at rfid.JSONHandler.getJSONObjectFromFileData(JSONHandler.java:62)
+	at rfid.csvhandler.BusCSVHandler.initializeBusHistory(BusCSVHandler.java:103)
+	at rfid.csvhandler.BusCSVHandler.getBusCSVHandler(BusCSVHandler.java:46)
+	at rfid.MainProgram.main(MainProgram.java:17)
+ 
+11-06-2021 09:13:40: rfid.MainProgram: SEVERE: java.lang.NullPointerException: Cannot invoke "org.json.simple.JSONObject.get(Object)" because "this.config_object" is null
+	at rfid.JSONHandler.getArray(JSONHandler.java:76)
+	at rfid.csvhandler.BusCSVHandler.initializeBusHistory(BusCSVHandler.java:104)
+	at rfid.csvhandler.BusCSVHandler.getBusCSVHandler(BusCSVHandler.java:46)
+	at rfid.MainProgram.main(MainProgram.java:17)
+ 
+11-06-2021 09:13:58: rfid.rfid_input.PortInputHandler: INFO: Fail to connect device 
+11-06-2021 09:13:58: rfid.MainProgram: INFO: Exit Program 
+11-06-2021 09:41:38: rfid.JSONHandler: SEVERE: Unexpected token COLON(:) at position 14.
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:146)
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:92)
+	at rfid.JSONHandler.getJSONObjectFromFileData(JSONHandler.java:62)
+	at rfid.csvhandler.BusCSVHandler.initializeBusHistory(BusCSVHandler.java:103)
+	at rfid.csvhandler.BusCSVHandler.getBusCSVHandler(BusCSVHandler.java:46)
+	at rfid.MainProgram.main(MainProgram.java:17)
+ 
+11-06-2021 09:41:38: rfid.MainProgram: SEVERE: java.lang.NullPointerException: Cannot invoke "org.json.simple.JSONObject.get(Object)" because "this.config_object" is null
+	at rfid.JSONHandler.getArray(JSONHandler.java:76)
+	at rfid.csvhandler.BusCSVHandler.initializeBusHistory(BusCSVHandler.java:104)
+	at rfid.csvhandler.BusCSVHandler.getBusCSVHandler(BusCSVHandler.java:46)
+	at rfid.MainProgram.main(MainProgram.java:17)
+ 
+11-06-2021 09:41:47: rfid.JSONHandler: SEVERE: Unexpected token COLON(:) at position 14.
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:146)
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:92)
+	at rfid.JSONHandler.getJSONObjectFromFileData(JSONHandler.java:62)
+	at rfid.csvhandler.BusCSVHandler.initializeBusHistory(BusCSVHandler.java:103)
+	at rfid.csvhandler.BusCSVHandler.getBusCSVHandler(BusCSVHandler.java:46)
+	at rfid.MainProgram.main(MainProgram.java:17)
+ 
+11-06-2021 09:41:47: rfid.MainProgram: SEVERE: java.lang.NullPointerException: Cannot invoke "org.json.simple.JSONObject.get(Object)" because "this.config_object" is null
+	at rfid.JSONHandler.getArray(JSONHandler.java:76)
+	at rfid.csvhandler.BusCSVHandler.initializeBusHistory(BusCSVHandler.java:104)
+	at rfid.csvhandler.BusCSVHandler.getBusCSVHandler(BusCSVHandler.java:46)
+	at rfid.MainProgram.main(MainProgram.java:17)
+ 
+11-06-2021 09:42:01: rfid.rfid_input.PortInputHandler: INFO: Fail to connect device 
+11-06-2021 09:42:01: rfid.MainProgram: INFO: Exit Program 
